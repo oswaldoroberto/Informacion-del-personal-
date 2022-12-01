@@ -2,8 +2,10 @@ Historia
 
 Oswaldo Alejandro Roberto Ramirez
 
-Edad: 25 
+Edad:
 
-Peso: 70    
+Peso: 
 
-Barbero: Barbero 
+Barbero: 
+
+Nacionalidad : 
