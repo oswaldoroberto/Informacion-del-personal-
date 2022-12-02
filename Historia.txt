@@ -4,7 +4,9 @@ Oswaldo Alejandro Roberto Ramirez
 
 Edad:25
 
-Peso: 70    
+Peso: 70
+
+Estatura: 1.69 cm 
 
 Ocupacion:Barbero
 
@@ -18,4 +20,5 @@ CI:25939085
 PASAPORTE:150209522
 Direccion: Candelaria-Cementerio
 Pais:Colombia
-Servicio de internet:Claro
+tipo de sangre: O+
+
