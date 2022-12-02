@@ -16,3 +16,6 @@ DATOS ADICIONALES
 
 CI:25939085
 PASAPORTE:150209522
+Direccion: Candelaria-Cementerio
+Pais:Colombia
+Servicio de internet:Claro
