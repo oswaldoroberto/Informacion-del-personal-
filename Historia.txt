@@ -22,14 +22,4 @@ Direccion: Candelaria-Cementerio
 Pais:Colombia
 tipo de sangre: O+
 
-master 1
-<<<<<<< HEAD
-<<<<<<< HEAD
-master 2 
-=======
-experimento 1
->>>>>>> e4333b9 (experimento 1)
-=======
-experimento 1
-experimento 2
->>>>>>> faa0540 (experimento2)
+
