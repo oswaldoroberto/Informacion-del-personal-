@@ -23,4 +23,8 @@ Pais:Colombia
 tipo de sangre: O+
 
 master 1
+<<<<<<< HEAD
 master 2 
+=======
+experimento 1
+>>>>>>> e4333b9 (experimento 1)
